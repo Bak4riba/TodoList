@@ -1,24 +1,5 @@
-# todovue
+#To-Do List em Vue.js
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##Projeto 
+A ideia do projeto foi desenvolver um To-Do List, ou uma Lista de Afazeres, com Vue.js e Spectre.css, duas tecnologias que não tinha ideia de como funcionavam.
+Desenvolvi esse projeto seguindo o tutorial do canal SwitchCase, com o intuito de conhecer minimamente como o Vue.js funciona.
